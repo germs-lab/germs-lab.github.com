@@ -19,7 +19,7 @@ locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
 baseurl: "/so-simple-theme" # the subpath of your site, e.g. "/blog"
-url: "https://germslab.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "www.germslab.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
