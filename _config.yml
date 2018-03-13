@@ -16,11 +16,11 @@
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Genomics and Environmental Research in Microbial Systems"
+description: ""
 baseurl: "/so-simple-theme" # the subpath of your site, e.g. "/blog"
-url: "www.germslab.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+url:  "www.germslab.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: "/images/for-web.gif" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -34,7 +34,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: teeniedeenie # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -74,6 +74,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-gallery-generator
 
 # Front Matter Defaults
 defaults:
@@ -87,17 +88,42 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Adina Howe
   picture:
-  email:
-  twitter:
+  email: adina@iastate.edu
+  twitter: teeniedeenie
   links:
     - title:
       url:
       icon:
 
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Recipe defaults
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      comments: true
+      share: true
+
 # Footer Links
-footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+#footer_links:
+#  - title: Feed
+#    url: atom.xml
+#    icon: fas fa-rss-square
