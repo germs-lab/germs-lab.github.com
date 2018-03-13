@@ -76,6 +76,8 @@ plugins:
   - jekyll-paginate
   - jekyll-gallery-generator
 
+
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -102,6 +104,10 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  photos:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Front Matter Defaults
 defaults:
@@ -113,14 +119,24 @@ defaults:
       layout: post
       comments: true
       share: true
-  # Recipe defaults
+  # Research defaults
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_research"
+      type: research
     values:
       layout: post
-      comments: true
+      comments: false
       share: true
+
+gallery:
+  dir: photos
+  symlink: true
+  
+  galleries:
+    photography:
+      best_image: mex1.jpg
+    background:
+      hidden:true
 
 # Footer Links
 #footer_links:
