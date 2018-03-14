@@ -1,24 +1,8 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-# theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Genomics and Environmental Research in Microbial Systems"
 description: ""
-baseurl: "/so-simple-theme" # the subpath of your site, e.g. "/blog"
+baseurl: "" # the subpath of your site, e.g. "/blog"
 url:  "www.germslab.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/for-web.gif" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
@@ -30,7 +14,7 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: UA-39200706-2 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
@@ -74,9 +58,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-gallery-generator
-
-
 
 # Front Matter Defaults
 defaults:
@@ -127,16 +108,6 @@ defaults:
       layout: post
       comments: false
       share: true
-
-gallery:
-  dir: photos
-  symlink: true
-  
-  galleries:
-    photography:
-      best_image: mex1.jpg
-    background:
-      hidden:true
 
 # Footer Links
 #footer_links:
