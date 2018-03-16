@@ -31,7 +31,6 @@ images:
       <div class="container">
         <h2>{{ image.title }}</h2>
         <p class="title">{{ image.position }}</p>
-	<p>Some text that describes me lorem ipsum ipsum lorem.</p>
       </div>
     </div>
   </div>
