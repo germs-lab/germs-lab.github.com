@@ -85,9 +85,8 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  photos:
+  photo_gallery:
     output: true
-    permalink: /:collection/:path/
 
 
 # Front Matter Defaults
