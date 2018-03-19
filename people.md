@@ -6,6 +6,10 @@ images:
     title: Adina Howe
     position:  PI
     weight: 1
+  - image_path: /photos-team/choi.jpg
+    title:  Jinlyung Choi, PhD
+    position:  Postdoc
+    weight: 2
   - image_path: /photos-team/lee.jpg
     title:  Jaejin Lee, PhD
     position:  Postdoc
