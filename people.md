@@ -14,10 +14,6 @@ images:
     title:  Jaejin Lee, PhD
     position:  Postdoc
     weight: 2
-  - image_path: /photos-team/colgan.jpg
-    title:  Phil Colgan
-    position:  PhD Student, ABE
-    weight: 2
   - image_path: /photos-team/smith.jpg
     title:  Schuyler Smith
     position:  PhD Student, BCB
