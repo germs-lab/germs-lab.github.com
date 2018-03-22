@@ -14,7 +14,7 @@ images:
     title:  Jaejin Lee, PhD
     position:  Postdoc
     weight: 2
-  - image_path: /photos-team/ma.jpg
+  - image_path: 
     title:  Lanying Ma, PhD
     position:  Postdoc
     weight: 2
