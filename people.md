@@ -5,36 +5,27 @@ images:
   - image_path: /photos-team/howe.jpg
     title: Adina Howe
     position:  PI
-    weight: 1
   - image_path: /photos-team/choi.jpg
     title:  Jinlyung Choi, PhD
     position:  Postdoc
-    weight: 2
   - image_path: /photos-team/lee.jpg
     title:  Jaejin Lee, PhD
     position:  Postdoc
-    weight: 2
   - image_path:  /photos-team/ma.jpg 
     title:  Lanying Ma, PhD
     position:  Postdoc
-    weight: 2
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater
     position:  PhD Student
-    weight: 2
   - image_path: /photos-team/smith.jpg
     title:  Schuyler Smith
     position:  PhD Student, BCB
-    weight: 2
   - image_path: /photos-team/villanueva.jpg
     title:  Paul Villanueva
     position:  PhD Student, BCB
-    weight: 2
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer
     position:  MS Student, ABE
-    weight: 4
-
 ---
 
 
