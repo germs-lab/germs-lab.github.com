@@ -3,7 +3,7 @@ layout: default
 permalink: /people/
 images: 
   - image_path: /photos-team/howe.jpg
-    title: Adina Howe
+    title: Adina Howe, PhD
     position:  PI
   - image_path: /photos-team/choi.jpg
     title:  Jinlyung Choi, PhD
