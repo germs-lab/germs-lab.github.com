@@ -26,6 +26,9 @@ images:
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer
     position:  MS Student, ABE
+  - image_path: /photos-team/luo.jpg
+    title: Weiquan Luo 
+    position:  MS Student, ABE
 ---
 
 
@@ -36,7 +39,7 @@ images:
     <div class="card">
       <img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title }}" style="width:100%">
       <div class="container">
-        <h2>{{ image.title }}</h2>
+        <p class="title2">{{ image.title }}</p>
         <p class="title">{{ image.position }}</p>
       </div>
     </div>
