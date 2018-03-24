@@ -14,6 +14,12 @@ images:
   - image_path:  /photos-team/ma.jpg 
     title:  Lanying Ma, PhD
     position:  Postdoc
+  - image_path:  /photos-team/ricker.gif
+    title:  Nicole Ricker, PhD
+    position:  Postdoc
+  - image_path: /photos-team/colgan.jpg
+    title:  Phil Colgan
+    position:  PhD Student, ABE
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater
     position:  PhD Student
@@ -29,6 +35,16 @@ images:
   - image_path: /photos-team/luo.jpg
     title: Weiquan Luo 
     position:  MS Student, ABE
+  - image_path: /photos-team/yang.jpg
+    title: Fan Yang, PhD
+    position: Past GERMSie
+  - image_path: /photos-team/neher.jpg
+    title: Tim Neher
+    position:  Collaborator, MS Student, ABE
+  - image_path: /photos-team/darte.jpg
+    title: DARTE AMR Team
+    position:  ISU, USDA, Grinnell
+
 ---
 
 
