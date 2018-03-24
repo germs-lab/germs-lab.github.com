@@ -40,7 +40,7 @@ images:
     position: Past GERMSie
   - image_path: /photos-team/neher.jpg
     title: Tim Neher
-    position:  Collaborator, MS Student, ABE
+    position:  Honarary GERMSie
   - image_path: /photos-team/darte.jpg
     title: DARTE AMR Team
     position:  ISU, USDA, Grinnell
