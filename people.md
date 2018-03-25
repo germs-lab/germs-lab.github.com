@@ -32,6 +32,9 @@ images:
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer
     position:  MS Student, ABE
+  - image_path: /photos-team/dolphin.jpg
+    title: Chad Dolphin
+    position:  MS Student, TSM
   - image_path: /photos-team/luo.jpg
     title: Weiquan Luo 
     position:  MS Student, ABE
