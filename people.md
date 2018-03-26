@@ -14,7 +14,7 @@ images:
   - image_path:  /photos-team/ma.jpg 
     title:  Lanying Ma, PhD
     position:  Postdoc
-  - image_path:  /photos-team/ricker.gif
+  - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
     position:  Postdoc
   - image_path: /photos-team/colgan.jpg
