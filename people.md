@@ -17,6 +17,9 @@ images:
   - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
     position:  Postdoc
+  - image_path: /photos-team/alt.jpg
+    title:  Laura Alt
+    position:  PhD Student, EnvSci
   - image_path: /photos-team/colgan.jpg
     title:  Phil Colgan
     position:  PhD Student, ABE
@@ -41,9 +44,12 @@ images:
   - image_path: /photos-team/yang.jpg
     title: Fan Yang, PhD
     position: Past GERMSie
+  - image_path: /photos-team/ed.jpg
+    title: Ed Lopatto
+    position:  Honary GERMS
   - image_path: /photos-team/neher.jpg
     title: Tim Neher
-    position:  Honarary GERMSie
+    position:  Honarary GERMS
   - image_path: /photos-team/darte.jpg
     title: DARTE AMR Team
     position:  ISU, USDA, Grinnell
