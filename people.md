@@ -19,28 +19,28 @@ images:
     position:  Postdoc
   - image_path: /photos-team/alt.jpg
     title:  Laura Alt
-    position:  PhD Student, EnvSci
+    position:  PhD Student
   - image_path: /photos-team/colgan.jpg
     title:  Phil Colgan
-    position:  PhD Student, ABE
+    position:  PhD Student
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater
     position:  PhD Student
   - image_path: /photos-team/smith.jpg
     title:  Schuyler Smith
-    position:  PhD Student, BCB
+    position:  PhD Student
   - image_path: /photos-team/villanueva.jpg
     title:  Paul Villanueva
-    position:  PhD Student, BCB
+    position:  PhD Student
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer
-    position:  MS Student, ABE
+    position:  MS Student
   - image_path: /photos-team/dolphin.jpg
     title: Chad Dolphin
-    position:  MS Student, TSM
+    position:  MS Student
   - image_path: /photos-team/luo.jpg
     title: Weiquan Luo 
-    position:  MS Student, ABE
+    position:  MS Student
   - image_path: /photos-team/yang.jpg
     title: Fan Yang, PhD
     position: Past GERMSie
