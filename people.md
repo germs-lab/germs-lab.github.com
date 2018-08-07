@@ -46,13 +46,10 @@ images:
     position: Past GERMSie
   - image_path: /photos-team/ed.jpg
     title: Ed Lopatto
-    position:  Honary GERMS
+    position:  Honarary GERMS
   - image_path: /photos-team/neher.jpg
     title: Tim Neher
     position:  Honarary GERMS
-  - image_path: /photos-team/darte.jpg
-    title: DARTE AMR Team
-    position:  ISU, USDA, Grinnell
 
 ---
 
