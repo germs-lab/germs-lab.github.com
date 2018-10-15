@@ -82,7 +82,7 @@ images:
         <p class="title2" style="padding-top: 10px; margin-bottom: 0px">{{ image.title }}</p>
         <p class="title" style="margin: 0 ; {% if image.website == null %}padding-bottom: 27px{% endif %};">{{ image.position }}</p>
         {% if image.website %}
-          <p class="title" style="margin-top: -4px; margin-bottom: 5px">Personal Website</p> 
+          <p class="title" style="margin-top: -4px; margin-bottom: 0px; padding-bottom: 4px">Website</p> 
         {% endif %}
       </div>
       {% if image.website %}
