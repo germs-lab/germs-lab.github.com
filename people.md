@@ -65,7 +65,7 @@ images:
   - image_path: /photos-team/neher.jpg
     title: Tim Neher
     position:  Honorary GERMS
-    website:
+
 
 ---
 
@@ -75,7 +75,7 @@ images:
   <div class="column">
     <div class="card">
         {% if image.website %}
-          <a href="{{ image.website }}" target="_blank">
+          <a href="{{ image.website }}" target="_blank" style="text-decoration: none">
         {% endif %}
         <img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title }}" style="width:100%">
       <div class="container">
