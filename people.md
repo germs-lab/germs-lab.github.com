@@ -74,16 +74,16 @@ images:
   {% for image in page.images %}
   <div class="column">
     <div class="card">
-        {% if image.website %}
+      {% if image.website %}
           <a href="{{ image.website }}" target="_blank" style="text-decoration: none">
-        {% endif %}
-        <img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title }}" style="width:100%">
+      {% endif %}
+      <img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title }}" style="width:100%">
       <div class="container">
         <p class="title2" style="padding-top: 10px; margin-bottom: 0px">{{ image.title }}</p>
-        <p class="title" style="margin: 0 ; {% if image.website == null %}padding-bottom: 27px{% endif %};">{{ image.position }}</p>
-        {% if image.website %}
+        <p class="title" style="margin: 0 ;padding-bottom: 10px;">{{ image.position }}</p>
+<!--         {% if image.website %}
           <p class="title" style="margin-top: -4px; margin-bottom: 0px; padding-bottom: 4px">Website</p> 
-        {% endif %}
+        {% endif %} -->
       </div>
       {% if image.website %}
         </a>
