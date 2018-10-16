@@ -9,7 +9,7 @@ images:
   - image_path: /photos-team/choi.jpg
     title:  Jinlyung Choi, PhD
     position:  Postdoc
-    website: 
+    website: https://github.com/metajinomics
   - image_path: /photos-team/lee.jpg
     title:  Jaejin Lee, PhD
     position:  Postdoc
