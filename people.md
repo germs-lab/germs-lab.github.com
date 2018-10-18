@@ -77,7 +77,7 @@ images:
       <div class="container">
         <p class="title2" style="padding-top: 10px; margin-bottom: 0px">{{ image.title }}</p>
         <p class="title" style="margin: 0 ;padding-bottom: 10px;">{{ image.position }}
-        {% if image.website %}<span style="float:right; position: relative; top: -15px; right: -5px;"><img src="/photos-team/github.png" alt="{{ image.title }}" style="width:90%;"></span>{% endif %}</p>
+        {% if image.website %}<span style="float:right; position: relative; top: -15px; right: -5px;"><img src="/photos-team/github.png" alt="{{ image.title }}" style="width:28px;"></span>{% endif %}</p>
       </div>
       {% if image.website %}
         </a>
