@@ -19,10 +19,6 @@ images:
     title:  Lanying Ma, PhD
     position:  Postdoc
     website: 
-  - image_path:  /photos-team/ricker.jpg
-    title:  Nicole Ricker, PhD
-    position:  Postdoc
-    website: 
   - image_path: /photos-team/alt.jpg
     title:  Laura Alt
     position:  PhD Student
@@ -33,6 +29,10 @@ images:
     website: 
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater
+    position:  PhD Student
+    website:
+  - image_path: /photos-team/dooley.gif
+    title:  Shane Dooley
     position:  PhD Student
     website: 
   - image_path: /photos-team/smith.jpg
@@ -58,6 +58,10 @@ images:
   - image_path: /photos-team/yang.jpg
     title: Fan Yang, PhD
     position: Past GERMSie
+    website: 
+  - image_path:  /photos-team/ricker.jpg
+    title:  Nicole Ricker, PhD
+    position:  Postdoc
     website: 
   - image_path: /photos-team/ed.jpg
     title: Ed Lopatto
