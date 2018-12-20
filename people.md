@@ -6,7 +6,7 @@ images:
   - image_path: /photos-team/howe.jpg
     title: Adina Howe, PhD
     position:  PI
-    website: 
+    website: https://github.com/germs-lab
   - image_path: /photos-team/choi.jpg
     title:  Jinlyung Choi, PhD
     position:  Postdoc
@@ -42,7 +42,7 @@ images:
   - image_path: /photos-team/villanueva.jpg
     title:  Paul Villanueva
     position:  PhD Student
-    website: 
+    website: https://github.com/pommevilla?tab=repositories
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer
     position:  MS Student
