@@ -31,7 +31,7 @@ images:
     title:  Jared Flater
     position:  PhD Student
     website:
-  - image_path: /photos-team/dooley.gif
+  - image_path: /photos-team/dooley2.gif
     title:  Shane Dooley
     position:  PhD Student
     website: 
@@ -61,7 +61,7 @@ images:
     website: 
   - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
-    position:  Postdoc
+    position:  Past GERMSie
     website: 
   - image_path: /photos-team/ed.jpg
     title: Ed Lopatto
