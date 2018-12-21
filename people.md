@@ -57,11 +57,11 @@ images:
     website: 
   - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
-    position:  Past GERMSie
+    position:  Past GERMSie Postdoc
     website: 
   - image_path: /photos-team/yang.jpg
     title: Fan Yang, PhD
-    position: Past GERMSie
+    position: Past GERMSie Postdoc
     website: 
   - image_path: /photos-team/ed.jpg
     title: Ed Lopatto
