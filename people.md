@@ -27,14 +27,14 @@ images:
     title:  Phil Colgan
     position:  PhD Student
     website: 
-  - image_path: /photos-team/flater.jpg
-    title:  Jared Flater
-    position:  PhD Student
-    website:
   - image_path: /photos-team/dooley2.gif
     title:  Shane Dooley
     position:  PhD Student
     website: 
+  - image_path: /photos-team/flater.jpg
+    title:  Jared Flater
+    position:  PhD Student
+    website:
   - image_path: /photos-team/smith.jpg
     title:  Schuyler Smith
     position:  PhD Student
@@ -43,25 +43,25 @@ images:
     title:  Paul Villanueva
     position:  PhD Student
     website: https://github.com/pommevilla?tab=repositories
-  - image_path: /photos-team/guyer.jpg
-    title: Hannah Guyer
-    position:  MS Student
-    website: 
   - image_path: /photos-team/dolphin.jpg
     title: Chad Dolphin
+    position:  MS Student
+    website: 
+  - image_path: /photos-team/guyer.jpg
+    title: Hannah Guyer
     position:  MS Student
     website: 
   - image_path: /photos-team/luo.jpg
     title: Weiquan Luo 
     position:  MS Student
     website: 
-  - image_path: /photos-team/yang.jpg
-    title: Fan Yang, PhD
-    position: Past GERMSie
-    website: 
   - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
     position:  Past GERMSie
+    website: 
+  - image_path: /photos-team/yang.jpg
+    title: Fan Yang, PhD
+    position: Past GERMSie
     website: 
   - image_path: /photos-team/ed.jpg
     title: Ed Lopatto
