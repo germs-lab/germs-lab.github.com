@@ -62,7 +62,7 @@ images:
   - image_path: /photos-team/yang.jpg
     title: Fan Yang, PhD
     position: Past GERMSie Postdoc
-    website: 
+    website: https://github.com/fandemonium
   - image_path: /photos-team/ed.jpg
     title: Ed Lopatto
     position:  Honorary GERMS
