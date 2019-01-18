@@ -55,8 +55,8 @@ images:
     title: Weiquan Luo 
     position:  MS Student
     website: 
-  - image_path:  /photos-team/liz_arches2.jpg
-    title:  Liz Rieke, PhD
+  - image_path:  /photos-team/liz_fish.jpg
+    title:  Liz Luby Rieke, PhD
     position:  Past GERMSie Postdoc
     website:      
   - image_path:  /photos-team/ricker.jpg
