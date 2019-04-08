@@ -3,6 +3,10 @@ layout: page
 title: "About"
 permalink: /about/
 ---
+
+<img src="/photos-team/lab_4_19.jpg" alt="lab_photo" class="image" style="width:100%">
+
+
 # GERMS Mission
 We are changing the environment that we live in, and we must understand and manage the impacts of our global change. Scientific research must inform these decisions and policy.  Leveraging our interdisciplinary expertise, our mission is to understand complex biological systems in agriculture, health, and engineering to guide sustainable management solutions for our society. 
 
