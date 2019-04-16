@@ -7,6 +7,4 @@ entries_layout: list
 ---
 
 
-<img src="/photos-team/lab_4_19.jpg" alt="lab_photo" class="image" style="width:100%">
-
 
