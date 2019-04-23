@@ -6,7 +6,7 @@ permalink: /team/
 
 # Lab philosophy
 
-The guiding principle of our lab is to advance science, tools, and software through our research.  We recognize that we are on a team and that our success is determined by both individual and collective efforts.  We are all caretakers of our reputation and how we perform our research, our coursework, and our collaborations determines our successes. Each of us is personally responsible for supporting our core values of creating a culture of welcoming; delivering our very best; being present; and acting with integrity.
+The guiding principle of our lab is to advance science, tools, and software through our research.  We recognize that we are a team and that our success is determined by both individual and collective efforts. We are all caretakers of our reputation and how we perform our research, our coursework, and our collaborations reflects on ourselves and each other. Each of us is personally responsible for supporting our core values of creating a welcoming culture; delivering our very best; being present; and acting with integrity.
 
 # Code of Conduct
 
