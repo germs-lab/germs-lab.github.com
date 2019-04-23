@@ -35,7 +35,7 @@ images:
     title:  Jared Flater
     position:  PhD Student
     website:
-  - image_path: /photos-team/
+  - image_path: /photos-team/liu.jpg
     title:  Jia Liu
     position:  PhD Student
     website:  https://github.com/jialiu232
