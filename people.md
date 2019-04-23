@@ -13,7 +13,7 @@ images:
     website: https://github.com/metajinomics
   - image_path: /photos-team/lee.jpg
     title:  Jaejin Lee, PhD
-    position:  Postdoc
+    position:  Research Scientist
     website: 
   - image_path:  /photos-team/ma.jpg 
     title:  Lanying Ma, PhD
@@ -35,6 +35,10 @@ images:
     title:  Jared Flater
     position:  PhD Student
     website:
+  - image_path: /photos-team/
+    title:  Jia Liu
+    position:  PhD Student
+    website:  https://github.com/jialiu232
   - image_path: /photos-team/smith.jpg
     title:  Schuyler Smith
     position:  PhD Student
