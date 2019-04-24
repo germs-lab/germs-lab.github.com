@@ -105,7 +105,7 @@ past_images:
 
 
 <div class="row">
-  <p style="font-size:8vw"> Released GERMS </p>
+  <p style="font-size:6vw"><strong> Released GERMS </strong></p>
   {% for image in page.past_images %}
   <div class="column">
     <div class="card">
