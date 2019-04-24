@@ -2,19 +2,19 @@
 layout: default
 permalink: /people/
 github: /\_photo_gallery/github.png
-images: 
+current_images: 
   - image_path: /photos-team/howe.jpg
     title: Adina Howe, PhD
     position:  PI
     website: https://github.com/germs-lab
-  - image_path: /photos-team/choi.jpg
-    title:  Jinlyung Choi, PhD
-    position:  Postdoc
-    website: https://github.com/metajinomics
   - image_path: /photos-team/lee.jpg
     title:  Jaejin Lee, PhD
     position:  Research Scientist
     website: 
+  - image_path: /photos-team/choi.jpg
+    title:  Jinlyung Choi, PhD
+    position:  Postdoc
+    website: https://github.com/metajinomics
   - image_path:  /photos-team/ma.jpg 
     title:  Lanying Ma, PhD
     position:  Postdoc
@@ -59,6 +59,11 @@ images:
     title: Weiquan Luo 
     position:  MS Student
     website: 
+  - image_path: /photos-team/neher.jpg
+    title: Tim Neher
+    position:  Honorary GERMS
+
+past_images: 
   - image_path:  /photos-team/liz_fish.jpg
     title:  Liz Luby Rieke, PhD
     position:  Past GERMSie Postdoc
@@ -75,13 +80,33 @@ images:
     title: Ed Lopatto
     position:  Honorary GERMS
     website: 
-  - image_path: /photos-team/neher.jpg
-    title: Tim Neher
-    position:  Honorary GERMS
 
 ---
 <div class="row">
-  {% for image in page.images %}
+  {% for image in page.current_images %}
+  <div class="column">
+    <div class="card">
+      {% if image.website %}<a href="{{ image.website }}" target="_blank" style="text-decoration: none">{% endif %}
+      <img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title }}" style="width:100%">
+      <div class="container">
+        <p class="title2" style="padding-top: 10px; margin-bottom: 0px">{{ image.title }}</p>
+        <p class="title" style="margin: 0 ;padding-bottom: 10px;">{{ image.position }}
+        {% if image.website %}<span style="float:right; position: relative; top: -15px; right: -5px;"><img src="/photos-team/github.png" alt="{{ image.title }}" style="width:28px;"></span>{% endif %}</p>
+      </div>
+      {% if image.website %}
+        </a>
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<br>
+
+
+<div class="row">
+  <p style="font-size:8vw"> Released GERMS </p>
+  {% for image in page.past_images %}
   <div class="column">
     <div class="card">
       {% if image.website %}<a href="{{ image.website }}" target="_blank" style="text-decoration: none">{% endif %}
