@@ -7,58 +7,67 @@ current_images:
     title: Adina Howe, PhD
     position:  PI
     website: https://github.com/germs-lab
+    
   - image_path: /photos-team/lee.jpg
     title:  Jaejin Lee, PhD
     position:  Research Scientist
-    website: 
+
   - image_path: /photos-team/choi.jpg
     title:  Jinlyung Choi, PhD
     position:  Postdoc
     website: https://github.com/metajinomics
+
   - image_path:  /photos-team/ma.jpg 
     title:  Lanying Ma, PhD
     position:  Postdoc
-    website: 
+
   - image_path: /photos-team/alt.jpg
     title:  Laura Alt
     position:  PhD Student
-    website: 
+
   - image_path: /photos-team/colgan.jpg
     title:  Phil Colgan
     position:  PhD Student
-    website: 
+
   - image_path: /photos-team/dooley2.gif
     title:  Shane Dooley
     position:  PhD Student
-    website: 
+
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater
     position:  PhD Student
-    website:
+
   - image_path: /photos-team/liu.jpg
     title:  Jia Liu
     position:  PhD Student
     website:  https://github.com/jialiu232
+
   - image_path: /photos-team/smith.jpg
     title:  Schuyler Smith
     position:  PhD Student
     website: https://schuyler-smith.github.io/
+
   - image_path: /photos-team/villanueva.jpg
     title:  Paul Villanueva
     position:  PhD Student
     website: https://github.com/pommevilla?tab=repositories
+
   - image_path: /photos-team/dolphin.jpg
     title: Chad Dolphin
     position:  MS Student
-    website: 
+
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer
     position:  MS Student
-    website: 
+
   - image_path: /photos-team/luo.jpg
     title: Weiquan Luo 
     position:  MS Student
-    website: 
+
+  - image_path: /photos-team/jihoon.jpg
+    title: Jihoon Yang
+    position:  Visitting Scholar
+
   - image_path: /photos-team/neher.jpg
     title: Tim Neher
     position:  Honorary GERMS
@@ -67,19 +76,19 @@ past_images:
   - image_path:  /photos-team/liz_fish.jpg
     title:  Liz Luby Rieke, PhD
     position:  Past GERMSie Postdoc
-    website:      
+
   - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
     position:  Past GERMSie Postdoc
-    website: 
+
   - image_path: /photos-team/yang.jpg
     title: Fan Yang, PhD
     position: Past GERMSie Postdoc
     website: https://github.com/fandemonium
+
   - image_path: /photos-team/ed.jpg
     title: Ed Lopatto
     position:  Honorary GERMS
-    website: 
 
 ---
 <div class="row">
