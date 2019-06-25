@@ -60,9 +60,6 @@ current_images:
     position:  Visitting Scholar
 
 past_images: 
-  - image_path:  /photos-team/liz_fish.jpg
-    title:  Liz Luby Rieke, PhD
-    position:  Postdoc
 
   - image_path: /photos-team/choi.jpg
     title:  Jinlyung Choi, PhD
@@ -71,6 +68,10 @@ past_images:
 
   - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
+    position:  Postdoc
+  
+  - image_path:  /photos-team/liz_fish.jpg
+    title:  Liz Luby Rieke, PhD
     position:  Postdoc
 
   - image_path: /photos-team/yang.jpg
