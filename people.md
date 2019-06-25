@@ -12,13 +12,12 @@ current_images:
     title:  Jaejin Lee, PhD
     position:  Research Scientist
 
-  - image_path: /photos-team/choi.jpg
-    title:  Jinlyung Choi, PhD
-    position:  Postdoc
-    website: https://github.com/metajinomics
-
   - image_path:  /photos-team/ma.jpg 
     title:  Lanying Ma, PhD
+    position:  Postdoc
+
+  - image_path:  /photos-team/jijy.jpg
+    title:  <q>JiJY</q>, PhD
     position:  Postdoc
 
   - image_path: /photos-team/alt.jpg
@@ -52,14 +51,6 @@ current_images:
     position:  PhD Student
     website: https://github.com/pommevilla?tab=repositories
 
-  - image_path: /photos-team/dolphin.jpg
-    title: Chad Dolphin
-    position:  MS Student
-
-  - image_path: /photos-team/guyer.jpg
-    title: Hannah Guyer
-    position:  MS Student
-
   - image_path: /photos-team/luo.jpg
     title: Weiquan Luo 
     position:  MS Student
@@ -68,23 +59,32 @@ current_images:
     title: Jihoon Yang
     position:  Visitting Scholar
 
-  - image_path: /photos-team/neher.jpg
-    title: Tim Neher
-    position:  Honorary GERMS
-
 past_images: 
   - image_path:  /photos-team/liz_fish.jpg
     title:  Liz Luby Rieke, PhD
-    position:  Past GERMSie Postdoc
+    position:  Postdoc
+
+  - image_path: /photos-team/choi.jpg
+    title:  Jinlyung Choi, PhD
+    position:  Postdoc
+    website: https://github.com/metajinomics
 
   - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
-    position:  Past GERMSie Postdoc
+    position:  Postdoc
 
   - image_path: /photos-team/yang.jpg
     title: Fan Yang, PhD
-    position: Past GERMSie Postdoc
+    position: Postdoc
     website: https://github.com/fandemonium
+
+  - image_path: /photos-team/dolphin.jpg
+    title: Chad Dolphin
+    position:  MS Student
+
+  - image_path: /photos-team/guyer.jpg
+    title: Hannah Guyer
+    position:  MS Student
 
   - image_path: /photos-team/ed.jpg
     title: Ed Lopatto
