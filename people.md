@@ -4,7 +4,7 @@ permalink: /people/
 github: /\_photo_gallery/github.png
 current_images: 
   - image_path: /photos-team/howe.jpg
-    title: Adina Howe, PhD
+    title: Adina Howe, PhD 
     position:  PI
     website: https://github.com/germs-lab
     
@@ -17,7 +17,7 @@ current_images:
     position:  Postdoc
 
   - image_path:  /photos-team/jijy.jpg
-    title:  <q>JiJY</q>, PhD
+    title:  Thanwalee <q>JiJY</q><br> Sooksa-nguan, PhD
     position:  Postdoc
 
   - image_path: /photos-team/alt.jpg
@@ -100,8 +100,8 @@ past_images:
       <img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title }}" style="width:100%">
       <div class="container">
         <p class="title2" style="padding-top: 10px; margin-bottom: 0px">{{ image.title }}</p>
-        <p class="title" style="margin: 0 ;padding-bottom: 10px;">{{ image.position }}
-        {% if image.website %}<span style="float:right; position: relative; top: -15px; right: -5px;"><img src="/photos-team/github.png" alt="{{ image.title }}" style="width:28px;"></span>{% endif %}</p>
+        <p class="title" style="padding-bottom: 10px;">{{ image.position }}
+        {% if image.website %}<span style="float:right; position: relative; top: -15%;"><img src="/photos-team/github.png" alt="{{ image.title }}" style="width:65%;"></span>{% endif %}</p>
       </div>
       {% if image.website %}
         </a>
@@ -115,7 +115,7 @@ past_images:
 
 
 <div class="row">
-  <p style="font-size:2vw"><strong> Released GERMS </strong></p>
+  <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica">  Released GERMS </font></pre></strong></p>
   {% for image in page.past_images %}
   <div class="column">
     <div class="card">
@@ -124,7 +124,7 @@ past_images:
       <div class="container">
         <p class="title2" style="padding-top: 10px; margin-bottom: 0px">{{ image.title }}</p>
         <p class="title" style="margin: 0 ;padding-bottom: 10px;">{{ image.position }}
-        {% if image.website %}<span style="float:right; position: relative; top: -15px; right: -5px;"><img src="/photos-team/github.png" alt="{{ image.title }}" style="width:28px;"></span>{% endif %}</p>
+        {% if image.website %}<span style="float:right; position: relative; top: -15%;"><img src="/photos-team/github.png" alt="{{ image.title }}" style="width:65%;"></span>{% endif %}</p>
       </div>
       {% if image.website %}
         </a>

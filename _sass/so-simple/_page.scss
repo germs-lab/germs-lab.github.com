@@ -305,8 +305,9 @@
 .column {
     float: left;
     width: 20%;
-    margin-bottom: 16px;
-    padding: 0 8px;
+    margin-bottom: 1%;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 /* Display the columns below each other instead of side by side on small screens */
@@ -316,7 +317,18 @@
         display: block;
     }
 }
-
+.row {
+    display: table;
+    width: 95%;
+    padding-left: 2.5%;
+}
+@media screen and (max-width: 650px) {
+    .row {
+        display: table;
+        width: 100%;
+        padding-left: 0%;
+    }
+}
 /* Add some shadows to create a card effect */
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -324,14 +336,9 @@
 
 /* Some left and right padding inside the container */
 .container {
-    padding: 0 16px;
-}
-
-/* Clear floats */
-.container::after, .row::after {
-    content: "";
-    clear: both;
-    display: table;
+    width: 95%;
+    padding-left: 3%;
+    height:110px;
 }
 
 .title {
