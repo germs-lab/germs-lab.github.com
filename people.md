@@ -55,6 +55,10 @@ current_images:
     title: Weiquan Luo 
     position:  MS Student
 
+  - image_path: /photos-team/abby.jpg
+    title: Abby Schaefer
+    position:  MS Student
+
   - image_path: /photos-team/jihoon2.jpg
     title: Jihoon Yang
     position:  Visitting Scholar
