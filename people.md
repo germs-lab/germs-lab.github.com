@@ -31,6 +31,7 @@ current_images:
   - image_path: /photos-team/dooley2.gif
     title:  Shane Dooley
     position:  PhD Student
+    website: https://github.com/skdooley
 
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater
