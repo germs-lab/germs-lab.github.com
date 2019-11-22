@@ -12,10 +12,6 @@ current_images:
     title:  Jaejin Lee, PhD
     position:  Research Scientist
 
-  - image_path:  /photos-team/ma.jpg 
-    title:  Lanying Ma, PhD
-    position:  Postdoc
-
   - image_path:  /photos-team/jijy.jpg
     title:  Thanwalee <q>JiJY</q><br> Sooksa-nguan, PhD
     position:  Postdoc
@@ -60,6 +56,10 @@ current_images:
     title: Abby Schaefer
     position:  MS Student
 
+  - image_path: /photos-team/fernando.jpg
+    title: Fernando Igne Rocha
+    position:  Visitting Scholar
+
   - image_path: /photos-team/jihoon2.jpg
     title: Jihoon Yang
     position:  Visitting Scholar
@@ -70,6 +70,10 @@ past_images:
     title:  Jinlyung Choi, PhD
     position:  Postdoc
     website: https://github.com/metajinomics
+
+  - image_path:  /photos-team/ma.jpg 
+    title:  Lanying Ma, PhD
+    position:  Postdoc
 
   - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
