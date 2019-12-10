@@ -58,11 +58,11 @@ current_images:
 
   - image_path: /photos-team/fernando.jpg
     title: Fernando Igne Rocha
-    position:  Visitting Scholar
+    position:  Visiting Scholar
 
   - image_path: /photos-team/jihoon2.jpg
     title: Jihoon Yang
-    position:  Visitting Scholar
+    position:  Visiting Scholar
 
 past_images: 
 
