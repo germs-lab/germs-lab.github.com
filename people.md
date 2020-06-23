@@ -96,6 +96,10 @@ past_images:
     title: Hannah Guyer
     position:  MS Student
 
+  - image_path: /photos-team/tomas.png
+    title: Tomas Vetrovsky
+    position:  Visiting Scholar
+    
   - image_path: /photos-team/ed.jpg
     title: Ed Lopatto
     position:  Honorary GERMS
