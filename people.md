@@ -15,6 +15,10 @@ current_images:
   - image_path:  /photos-team/jijy.jpg
     title:  Thanwalee <q>JiJY</q><br> Sooksa-nguan, PhD
     position:  Postdoc
+    
+  - image_path: /photos-team/jihoon2.jpg
+    title: Jihoon Yang
+    position:  Postdoc
 
   - image_path: /photos-team/alt.jpg
     title:  Laura Alt
@@ -60,9 +64,7 @@ current_images:
     title: Fernando Igne Rocha
     position:  Visiting Scholar
 
-  - image_path: /photos-team/jihoon2.jpg
-    title: Jihoon Yang
-    position:  Visiting Scholar
+
 
 past_images: 
 
