@@ -64,6 +64,9 @@ current_images:
     title: Fernando Igne Rocha
     position:  Visiting Scholar
 
+  - image_path: /photos-team/erik.jpg
+    title: Erik Raman
+    position:  Undergraduate RA
 
 
 past_images: 
