@@ -12,12 +12,16 @@ current_images:
     title:  Jaejin Lee, PhD
     position:  Research Scientist
 
+  - image_path:  /photos-team/kate.jpg
+    title:  Kate Glanville, PhD
+    position:  Postdoc
+    
   - image_path:  /photos-team/jijy.jpg
     title:  Thanwalee <q>JiJY</q><br> Sooksa-nguan, PhD
     position:  Postdoc
     
   - image_path: /photos-team/jihoon2.jpg
-    title: Jihoon Yang
+    title: Jihoon Yang, PhD
     position:  Postdoc
 
   - image_path: /photos-team/alt.jpg
