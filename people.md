@@ -60,10 +60,6 @@ current_images:
     title: Abby Schaefer
     position:  MS Student
 
-  - image_path: /photos-team/fernando.jpg
-    title: Fernando Igne Rocha
-    position:  Visiting Scholar
-
   - image_path: /photos-team/erik.jpg
     title: Erik Raman
     position:  Undergraduate RA
@@ -151,6 +147,7 @@ past_images:
 
 <div class="row">
   <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica"> Past Visiting GERMS </font></pre></strong></p>
+  <p>Fernando Igne Rocha, Universidade Federal Rural do Rio de Janeiro</p>
 <p>Ederson Jesus, Embrapa</p>
 <p>Tomas Vetrovsky, Czech Academy of Sciences</p>
 <p>Edward Lopatto, Grinnell College</p>
