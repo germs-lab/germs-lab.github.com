@@ -80,7 +80,6 @@ past_images:
 
   - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
-    position:  Postdoc
   
   - image_path:  /photos-team/liz_fish.jpg
     title:  Liz Luby Rieke, PhD
