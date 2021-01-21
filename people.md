@@ -11,7 +11,11 @@ current_images:
   - image_path: /photos-team/lee.jpg
     title:  Jaejin Lee, PhD
     position:  Research Scientist
-
+    
+  - image_path: /photos-team/flater.jpg
+    title:  Jared Flater, PhD
+    position:  Postdoc
+  
   - image_path:  /photos-team/kate.jpg
     title:  Kate Glanville, PhD
     position:  Postdoc
@@ -28,18 +32,10 @@ current_images:
     title:  Laura Alt
     position:  PhD Student
 
-  - image_path: /photos-team/colgan.jpg
-    title:  Phil Colgan
-    position:  PhD Student
-
   - image_path: /photos-team/dooley2.gif
     title:  Shane Dooley
     position:  PhD Student
     website: https://github.com/skdooley
-
-  - image_path: /photos-team/flater.jpg
-    title:  Jared Flater
-    position:  PhD Student
 
   - image_path: /photos-team/liu.jpg
     title:  Jia Liu
@@ -79,6 +75,10 @@ past_images:
     title:  Jinlyung Choi, PhD
     position:  Postdoc
     website: https://github.com/metajinomics
+    
+  - image_path: /photos-team/colgan.jpg
+    title:  Phil Colgan, PhD
+    position:  Former PhD Student
 
   - image_path:  /photos-team/ma.jpg 
     title:  Lanying Ma, PhD
@@ -103,11 +103,11 @@ past_images:
 
   - image_path: /photos-team/dolphin.jpg
     title: Chad Dolphin
-    position:  MS Student
+    position:  Former MS Student
 
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer
-    position:  MS Student
+    position:  Former MS Student
 
 ---
 <div class="row">
