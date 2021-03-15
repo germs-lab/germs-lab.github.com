@@ -52,10 +52,6 @@ current_images:
     position:  PhD Student
     website: https://github.com/pommevilla?tab=repositories
 
-  - image_path: /photos-team/luo.jpg
-    title: Weiquan Luo 
-    position:  MS Student
-
   - image_path: /photos-team/abby.jpg
     title: Abby Schaefer
     position:  MS Student
@@ -99,7 +95,10 @@ past_images:
 
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer
- 
+  
+  - image_path: /photos-team/luo.jpg
+    title: Weiquan Luo 
+  
 ---
 <div class="row">
   {% for image in page.current_images %}
