@@ -32,6 +32,10 @@ current_images:
     title:  Laura Alt
     position:  PhD Student
 
+  - image_path: /photos-team/grace.jpg
+    title:  Grace Carey
+    position:  PhD Student
+    
   - image_path: /photos-team/dooley2.gif
     title:  Shane Dooley
     position:  PhD Student
