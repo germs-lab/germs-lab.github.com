@@ -36,11 +36,6 @@ current_images:
     title:  Grace Carey
     position:  PhD Student
     
-  - image_path: /photos-team/dooley2.gif
-    title:  Shane Dooley
-    position:  PhD Student
-    website: https://github.com/skdooley
-
   - image_path: /photos-team/liu.jpg
     title:  Jia Liu
     position:  PhD Student
@@ -56,10 +51,6 @@ current_images:
     position:  PhD Student
     website: https://github.com/pommevilla?tab=repositories
 
-  - image_path: /photos-team/abby.jpg
-    title: Abby Schaefer
-    position:  MS Student
-
   - image_path: /photos-team/erik.jpg
     title: Erik Raman
     position:  Undergraduate RA
@@ -74,9 +65,11 @@ past_images:
   - image_path: /photos-team/colgan.jpg
     title:  Phil Colgan, PhD
 
+  - image_path: /photos-team/dooley2.gif
+    title:  Shane Dooley
+
   - image_path:  /photos-team/ma.jpg 
     title:  Lanying Ma, PhD
-
 
   - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
@@ -84,7 +77,9 @@ past_images:
   - image_path:  /photos-team/liz_fish.jpg
     title:  Liz Luby Rieke, PhD
 
-    
+  - image_path: /photos-team/abby.jpg
+    title: Abby Schaefer, MS
+  
   - image_path:  /photos-team/ryan.jpg
     title:  Ryan Williams, PhD
  
