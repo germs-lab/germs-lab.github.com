@@ -64,7 +64,16 @@ past_images:
     
   - image_path: /photos-team/colgan.jpg
     title:  Phil Colgan, PhD
+    
+  - image_path: /photos-team/dolphin.jpg
+    title: Chad Dolphin, MS  
 
+  - image_path: /photos-team/guyer.jpg
+    title: Hannah Guyer, MS
+    
+ - image_path: /photos-team/luo.jpg
+    title: Weiquan Luo, MS
+    
   - image_path: /photos-team/dooley2.gif
     title:  Shane Dooley
 
@@ -88,15 +97,10 @@ past_images:
     title: Fan Yang, PhD
     website: https://github.com/fandemonium
 
-  - image_path: /photos-team/dolphin.jpg
-    title: Chad Dolphin
-    
 
-  - image_path: /photos-team/guyer.jpg
-    title: Hannah Guyer
+
   
-  - image_path: /photos-team/luo.jpg
-    title: Weiquan Luo 
+
   
 ---
 <div class="row">
