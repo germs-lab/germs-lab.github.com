@@ -55,7 +55,6 @@ current_images:
     title: Erik Raman
     position:  Undergraduate RA
 
-
 past_images: 
 
   - image_path: /photos-team/choi.jpg
@@ -71,7 +70,7 @@ past_images:
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer, MS
     
- - image_path: /photos-team/luo.jpg
+  - image_path: /photos-team/luo.jpg
     title: Weiquan Luo, MS
     
   - image_path: /photos-team/dooley2.gif
@@ -91,7 +90,6 @@ past_images:
   
   - image_path:  /photos-team/ryan.jpg
     title:  Ryan Williams, PhD
- 
 
   - image_path: /photos-team/yang.jpg
     title: Fan Yang, PhD
