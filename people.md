@@ -66,15 +66,15 @@ past_images:
     
   - image_path: /photos-team/dolphin.jpg
     title: Chad Dolphin, MS  
+    
+  - image_path: /photos-team/dooley2.gif
+    title:  Shane Dooley
 
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer, MS
     
   - image_path: /photos-team/luo.jpg
     title: Weiquan Luo, MS
-    
-  - image_path: /photos-team/dooley2.gif
-    title:  Shane Dooley
 
   - image_path:  /photos-team/ma.jpg 
     title:  Lanying Ma, PhD
@@ -96,10 +96,6 @@ past_images:
     website: https://github.com/fandemonium
 
 
-
-  
-
-  
 ---
 <div class="row">
   {% for image in page.current_images %}
