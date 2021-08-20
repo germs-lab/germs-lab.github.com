@@ -51,6 +51,10 @@ current_images:
     position:  PhD Student
     website: https://github.com/pommevilla?tab=repositories
 
+  - image_path: /photos-team/e.jpg
+    title: Emma Nieland
+    position:  Undergraduate RA
+    
   - image_path: /photos-team/erik.jpg
     title: Erik Raman
     position:  Undergraduate RA
