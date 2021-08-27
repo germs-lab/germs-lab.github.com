@@ -12,6 +12,10 @@ current_images:
     title:  Jaejin Lee, PhD
     position:  Research Scientist
     
+  - image_path:  /photos-team/lorien.gif
+    title:  Lorien Radmer, MS
+    position:  Research Scientist
+    
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater, PhD
     position:  Postdoc
