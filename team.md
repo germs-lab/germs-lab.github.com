@@ -4,7 +4,7 @@ title: "Team"
 permalink: /team/
 ---
 
-<img src="/photos-team/lab_bowling.jpg" alt="lab_photo" class="image" style="width:100%">
+<img src="/photos-team/group_photo_fall_2021.jpg" alt="lab_photo" class="image" style="width:100%">
 
 # Our Code of Conduct
 
@@ -13,5 +13,4 @@ The guiding principle of our lab is to advance science, tools, and software thro
 GERMS is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of lab members in any form. Sexual language and imagery is not appropriate for any lab venue, including lab meetings, presentations, or discussions. 
 
 
-<img src="/photos-team/lab-olympics-19.jpg" alt="lab_photo" class="image" style="width:100%">
-
+<img src="/photos-team/lab_bowling.jpg" alt="lab_photo" class="image" style="width:100%">
