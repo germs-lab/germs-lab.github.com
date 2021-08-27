@@ -12,7 +12,7 @@ current_images:
     title:  Jaejin Lee, PhD
     position:  Research Scientist
     
-  - image_path:  /photos-team/lorien.gif
+  - image_path:  /photos-team/lorien.jpg
     title:  Lorien Radmer, MS
     position:  Research Scientist
     
