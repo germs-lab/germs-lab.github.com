@@ -24,10 +24,6 @@ current_images:
     title:  Kate Glanville, PhD
     position:  Postdoc
     
-  - image_path:  /photos-team/jijy.jpg
-    title:  Thanwalee <q>JiJY</q><br> Sooksa-nguan, PhD
-    position:  Postdoc
-    
   - image_path: /photos-team/jihoon2.jpg
     title: Jihoon Yang, PhD
     position:  Postdoc
@@ -44,11 +40,6 @@ current_images:
     title:  Jia Liu
     position:  PhD Student
     website:  https://github.com/jialiu232
-
-  - image_path: /photos-team/smith.jpg
-    title:  Schuyler Smith
-    position:  PhD Student
-    website: https://schuyler-smith.github.io/
 
   - image_path: /photos-team/villanueva.jpg
     title:  Paul Villanueva
@@ -67,40 +58,61 @@ past_images:
 
   - image_path: /photos-team/choi.jpg
     title:  Jinlyung Choi, PhD
+    position:  Postdoc
     website: https://github.com/metajinomics
     
   - image_path: /photos-team/colgan.jpg
     title:  Phil Colgan, PhD
+    position:  Gradute Student
     
   - image_path: /photos-team/dolphin.jpg
     title: Chad Dolphin, MS  
+    position:  Gradute Student
     
   - image_path: /photos-team/dooley2.gif
-    title:  Shane Dooley
+    title:  Shane Dooley, PhD
+    position:  Gradute Student
 
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer, MS
+    position:  Gradute Student
     
   - image_path: /photos-team/luo.jpg
     title: Weiquan Luo, MS
+    position:  Gradute Student
 
   - image_path:  /photos-team/ma.jpg 
     title:  Lanying Ma, PhD
+    position:  Postdoc
 
   - image_path:  /photos-team/ricker.jpg
     title:  Nicole Ricker, PhD
+    position:  Postdoc
   
   - image_path:  /photos-team/liz_fish.jpg
     title:  Liz Luby Rieke, PhD
+    position:  Postdoc
 
   - image_path: /photos-team/abby.jpg
     title: Abby Schaefer, MS
+    position:  Gradute Student
+
+  - image_path: /photos-team/smith.jpg
+    title:  Schuyler Smith, PhD
+    position:  Gradute Student
+    website: https://schuyler-smith.github.io/
+    
+  - image_path:  /photos-team/jijy.jpg
+    title:  Thanwalee <q>JiJY</q><br> Sooksa-nguan, PhD
+    position:  Postdoc
   
   - image_path:  /photos-team/ryan.jpg
     title:  Ryan Williams, PhD
+    position:  Postdoc
 
   - image_path: /photos-team/yang.jpg
     title: Fan Yang, PhD
+    position:  Postdoc
     website: https://github.com/fandemonium
 
 
