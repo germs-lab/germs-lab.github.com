@@ -19,10 +19,6 @@ current_images:
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater, PhD
     position:  Postdoc
-  
-  - image_path:  /photos-team/kate.jpg
-    title:  Kate Glanville, PhD
-    position:  Postdoc
     
   - image_path: /photos-team/jihoon2.jpg
     title: Jihoon Yang, PhD
@@ -73,6 +69,10 @@ past_images:
     title:  Shane Dooley, PhD
     position:  Gradute Student
 
+  - image_path:  /photos-team/kate.jpg
+    title:  Kate Glanville, PhD
+    position:  Postdoc
+    
   - image_path: /photos-team/guyer.jpg
     title: Hannah Guyer, MS
     position:  Gradute Student
