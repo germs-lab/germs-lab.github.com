@@ -26,20 +26,24 @@ current_images:
 
   - image_path: /photos-team/alt.jpg
     title:  Laura Alt
-    position:  PhD Student
+    position:  PhD Student (ES)
+    
+  - image_path: /photos-team/puja2.jpg
+    title:  Puja Bajracharya
+    position:  PhD Student (BCB)
 
   - image_path: /photos-team/grace.jpg
-    title:  Grace Carey
+    title:  Grace Carey (Micro)
     position:  PhD Student
     
   - image_path: /photos-team/liu.jpg
     title:  Jia Liu
-    position:  PhD Student
+    position:  PhD Student (BCB)
     website:  https://github.com/jialiu232
 
   - image_path: /photos-team/villanueva.jpg
     title:  Paul Villanueva
-    position:  PhD Student
+    position:  PhD Student (BCB)
     website: https://github.com/pommevilla?tab=repositories
 
   - image_path: /photos-team/e.jpg
