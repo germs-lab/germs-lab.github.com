@@ -54,71 +54,6 @@ current_images:
     title: Erik Raman
     position:  Undergraduate RA
 
-past_images: 
-
-  - image_path: /photos-team/choi.jpg
-    title:  Jinlyung Choi, PhD
-    position:  Postdoc
-    website: https://github.com/metajinomics
-    
-  - image_path: /photos-team/colgan.jpg
-    title:  Phil Colgan, PhD
-    position:  Gradute Student
-    
-  - image_path: /photos-team/dolphin.jpg
-    title: Chad Dolphin, MS  
-    position:  Gradute Student
-    
-  - image_path: /photos-team/dooley2.gif
-    title:  Shane Dooley, PhD
-    position:  Gradute Student
-
-  - image_path:  /photos-team/kate.jpg
-    title:  Kate Glanville, PhD
-    position:  Postdoc
-    
-  - image_path: /photos-team/guyer.jpg
-    title: Hannah Guyer, MS
-    position:  Gradute Student
-    
-  - image_path: /photos-team/luo.jpg
-    title: Weiquan Luo, MS
-    position:  Gradute Student
-
-  - image_path:  /photos-team/ma.jpg 
-    title:  Lanying Ma, PhD
-    position:  Postdoc
-
-  - image_path:  /photos-team/ricker.jpg
-    title:  Nicole Ricker, PhD
-    position:  Postdoc
-  
-  - image_path:  /photos-team/liz_fish.jpg
-    title:  Liz Luby Rieke, PhD
-    position:  Postdoc
-
-  - image_path: /photos-team/abby.jpg
-    title: Abby Schaefer, MS
-    position:  Gradute Student
-
-  - image_path: /photos-team/smith.jpg
-    title:  Schuyler Smith, PhD
-    position:  Gradute Student
-    website: https://schuyler-smith.github.io/
-    
-  - image_path:  /photos-team/jijy.jpg
-    title:  Thanwalee <q>JiJY</q><br> Sooksa-nguan, PhD
-    position:  Postdoc
-  
-  - image_path:  /photos-team/ryan.jpg
-    title:  Ryan Williams, PhD
-    position:  Postdoc
-
-  - image_path: /photos-team/yang.jpg
-    title: Fan Yang, PhD
-    position:  Postdoc
-    website: https://github.com/fandemonium
-
 
 ---
 <div class="row">
@@ -164,6 +99,28 @@ past_images:
 </div>
 
 
+<div class="row">
+  <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica"> Released GERMS </font></pre></strong></p>
+   <p>Jinlyung Choi, PhD</p>
+<p>Phil Colgan, PhD</p>
+<p>Chad Dolphin, MS</p>
+<p>Shane Dooley, PhD</p>
+<p>Kate Glanville, PhD</p>
+<p>Hannah Guyer, MS</p>
+  <p>Weiquan Luo, MS </p>
+  <p>Lanying Ma, PhD </p>
+  <p>Nicole Ricker, PhD</p>
+  <p>Liz Luby Rieke, PhD</p>
+  <p>Abby Schaefer, MS</p>
+  <p>Schuyler Smith, PhD</p>
+  <p>Thanwalee "JiJY" Sooksa-Nguan, PhD </p>
+  <p>Ryan Williams, PhD </p>
+  <p>Fan Yang, PhD</p>
+ </div>
+
+
+ 
+</div>
 <div class="row">
   <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica"> Past Visiting GERMS </font></pre></strong></p>
   <p>Fernando Igne Rocha, Universidade Federal Rural do Rio de Janeiro</p>
