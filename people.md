@@ -78,26 +78,6 @@ current_images:
 <br>
 
 
-<div class="row">
-  <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica">  Released GERMS </font></pre></strong></p>
-  {% for image in page.past_images %}
-  <div class="column">
-    <div class="card">
-      {% if image.website %}<a href="{{ image.website }}" target="_blank" style="text-decoration: none">{% endif %}
-      <img src="{{ image.image_path | prepend: site.baseurl }}" alt="{{ image.title }}" style="width:100%">
-      <div class="container">
-        <p class="title2" style="padding-top: 10px; margin-bottom: 0px">{{ image.title }}</p>
-        <p class="title" style="margin: 0 ;padding-bottom: 10px;">{{ image.position }}
-        {% if image.website %}<span style="float:right; position: relative; top: -15%;"><img src="/photos-team/github.png" alt="{{ image.title }}" style="width:65%;"></span>{% endif %}</p>
-      </div>
-      {% if image.website %}
-        </a>
-      {% endif %}
-    </div>
-  </div>
-  {% endfor %}
-</div>
-
 
 <div class="row">
   <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica"> Released GERMS </font></pre></strong></p>
@@ -116,10 +96,6 @@ current_images:
   <p>Thanwalee "JiJY" Sooksa-Nguan, PhD </p>
   <p>Ryan Williams, PhD </p>
   <p>Fan Yang, PhD</p>
- </div>
-
-
- 
 </div>
 <div class="row">
   <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica"> Past Visiting GERMS </font></pre></strong></p>
