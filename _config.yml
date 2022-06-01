@@ -1,4 +1,4 @@
-theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "Genomics and Environmental Research in Microbial Systems"
 description: ""
