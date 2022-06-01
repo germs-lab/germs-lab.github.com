@@ -1,4 +1,4 @@
-remote_theme: mmistakes/so-simple-theme
+theme: jekyll-theme-so-simple
 locale: en-US
 title: "Genomics and Environmental Research in Microbial Systems"
 description: "Research Website for GERMS"
