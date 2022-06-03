@@ -16,7 +16,7 @@ current_images:
     title:  Lorien Radmer, MS
     position:  Research Scientist
  
-   - image_path: /photos-team/alt.jpg
+  - image_path: /photos-team/alt.jpg
     title:  Laura Alt, PhD
     position:  Postdoc
     
