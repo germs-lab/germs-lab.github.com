@@ -15,6 +15,10 @@ current_images:
   - image_path:  /photos-team/lorien.jpg
     title:  Lorien Radmer, MS
     position:  Research Scientist
+ 
+   - image_path: /photos-team/alt.jpg
+    title:  Laura Alt, PhD
+    position:  Postdoc
     
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater, PhD
@@ -23,10 +27,6 @@ current_images:
   - image_path: /photos-team/jihoon2.jpg
     title: Jihoon Yang, PhD
     position:  Postdoc
-
-  - image_path: /photos-team/alt.jpg
-    title:  Laura Alt
-    position:  PhD Student (ES)
     
   - image_path: /photos-team/puja2.jpg
     title:  Puja Bajracharya
