@@ -33,8 +33,8 @@ current_images:
     position:  PhD Student (BCB)
 
   - image_path: /photos-team/grace.jpg
-    title:  Grace Carey (Micro)
-    position:  PhD Student
+    title:  Grace Carey 
+    position:  PhD Student (Micro)
     
   - image_path: /photos-team/liu.jpg
     title:  Jia Liu
