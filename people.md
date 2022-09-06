@@ -20,6 +20,10 @@ current_images:
     title:  Laura Alt, PhD
     position:  Postdoc
     
+  - image_path: /photos-team/michael.jpg
+    title:  Michael Millican, PhD
+    position:  Postdoc
+    
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater, PhD
     position:  Postdoc
@@ -45,6 +49,10 @@ current_images:
     title:  Paul Villanueva
     position:  PhD Student (BCB)
     website: https://github.com/pommevilla?tab=repositories
+
+  - image_path: /photos-team/kaija.jpg
+    title: Kaija Dahlberg
+    position:  Undergraduate RA
 
   - image_path: /photos-team/juliana.jpg
     title: Juliana Johnson
