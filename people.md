@@ -16,16 +16,16 @@ current_images:
     title:  Lorien Radmer, MS
     position:  Research Scientist
  
-  - image_path: /photos-team/alt.jpg
+  - image_path: /photos-team/Laura-headshot.jpg
     title:  Laura Alt, PhD
-    position:  Postdoc
-    
-  - image_path: /photos-team/michael.jpg
-    title:  Michael Millican, PhD
     position:  Postdoc
     
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater, PhD
+    position:  Postdoc
+    
+  - image_path: /photos-team/michael.jpg
+    title:  Michael Millican, PhD
     position:  Postdoc
     
   - image_path: /photos-team/jihoon2.jpg
