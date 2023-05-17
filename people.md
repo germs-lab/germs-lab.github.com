@@ -15,10 +15,6 @@ current_images:
   - image_path:  /photos-team/lorien.jpg
     title:  Lorien Radmer, MS
     position:  Research Scientist
- 
-  - image_path: /photos-team/Laura-headshot.jpg
-    title:  Laura Alt, PhD
-    position:  Postdoc
     
   - image_path: /photos-team/flater.jpg
     title:  Jared Flater, PhD
@@ -58,13 +54,6 @@ current_images:
     title: Juliana Johnson
     position:  Undergraduate RA
     
-  - image_path: /photos-team/e.jpg
-    title: Emma Nieland
-    position:  Undergraduate RA
-    
-  - image_path: /photos-team/erik.jpg
-    title: Erik Raman
-    position:  Undergraduate RA
 
 
 ---
@@ -93,7 +82,8 @@ current_images:
 
 <div class="row">
   <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica"> Released GERMS </font></pre></strong></p>
-   <p>Jinlyung Choi, PhD</p>
+  <p>Laura Alt, PhD</p> 
+  <p>Jinlyung Choi, PhD</p>
 <p>Phil Colgan, PhD</p>
 <p>Chad Dolphin, MS</p>
 <p>Shane Dooley, PhD</p>
@@ -108,6 +98,8 @@ current_images:
   <p>Thanwalee "JiJY" Sooksa-Nguan, PhD </p>
   <p>Ryan Williams, PhD </p>
   <p>Fan Yang, PhD</p>
+  <p>Emma Nieland</p>
+  <p>Erik Raman </p>
 </div>
 <div class="row">
   <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica"> Past Visiting GERMS </font></pre></strong></p>
