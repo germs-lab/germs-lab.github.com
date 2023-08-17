@@ -24,10 +24,6 @@ current_images:
     title:  Michael Millican, PhD
     position:  Postdoc
     
-  - image_path: /photos-team/jihoon2.jpg
-    title: Jihoon Yang, PhD
-    position:  Postdoc
-    
   - image_path: /photos-team/puja2.jpg
     title:  Puja Bajracharya
     position:  PhD Student (BCB)
@@ -41,18 +37,10 @@ current_images:
     position:  PhD Student (BCB)
     website:  https://github.com/jialiu232
 
-  - image_path: /photos-team/villanueva.jpg
-    title:  Paul Villanueva
-    position:  PhD Student (BCB)
-    website: https://github.com/pommevilla?tab=repositories
-
   - image_path: /photos-team/kaija.jpg
     title: Kaija Dahlberg
     position:  Undergraduate RA
 
-  - image_path: /photos-team/juliana.jpg
-    title: Juliana Johnson
-    position:  Undergraduate RA
     
 
 
@@ -89,6 +77,7 @@ current_images:
 <p>Shane Dooley, PhD</p>
 <p>Kate Glanville, PhD</p>
 <p>Hannah Guyer, MS</p>
+  <p>Juliana Johnson</p>
   <p>Weiquan Luo, MS </p>
   <p>Lanying Ma, PhD </p>
   <p>Nicole Ricker, PhD</p>
@@ -96,8 +85,10 @@ current_images:
   <p>Abby Schaefer, MS</p>
   <p>Schuyler Smith, PhD</p>
   <p>Thanwalee "JiJY" Sooksa-Nguan, PhD </p>
+  <p>Paul Villanueva, PhD </p>
   <p>Ryan Williams, PhD </p>
   <p>Fan Yang, PhD</p>
+  <p>Jihoon Yang, PhD</p>
   <p>Emma Nieland</p>
   <p>Erik Raman </p>
 </div>
