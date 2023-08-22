@@ -41,8 +41,6 @@ current_images:
     position:  PhD Student (BCB)
     website:  https://github.com/jialiu232
 
-  
-
   - image_path: /photos-team/kaija.jpg
     title: Kaija Dahlberg
     position:  Undergraduate RA
