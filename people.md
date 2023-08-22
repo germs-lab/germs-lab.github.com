@@ -26,16 +26,22 @@ current_images:
     
   - image_path: /photos-team/puja2.jpg
     title:  Puja Bajracharya
-    position:  PhD Student (BCB)
+    position:  PhD Student (Micro)
 
   - image_path: /photos-team/grace.jpg
     title:  Grace Carey 
     position:  PhD Student (Micro)
-    
+
+  - image_path: /photos-team/nicole.jpg
+    title:  Nicole Geerdes
+    position:  PhD Student (EnvSci)
+  
   - image_path: /photos-team/liu.jpg
     title:  Jia Liu
     position:  PhD Student (BCB)
     website:  https://github.com/jialiu232
+
+  
 
   - image_path: /photos-team/kaija.jpg
     title: Kaija Dahlberg
