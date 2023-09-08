@@ -18,6 +18,3 @@ We are a part of [Iowa State University](http://www.iastate.edu) and the [Agricu
 
 We are currently supported by the U.S. DOE; the U.S. EPA; the National Pork Board; the National Science Foundation Division of Environmental Biology; and the USDA National Institute of Food and Agriculture.
 
-# Ongoings
-
-<a class="twitter-timeline"  data-width="400" data-height="400" data-tweet-limit="3" href="https://twitter.com/teeniedeenie?ref_src=twsrc%5Etfw">Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
