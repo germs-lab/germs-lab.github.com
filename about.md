@@ -16,5 +16,5 @@ The GERMS lab believes in the significance of research with impact, the immense 
 
 We are a part of [Iowa State University](http://www.iastate.edu) and the [Agricultural and Biosystems Engineering Department](http://www.abe.iastate.edu).  We are also affiliated with ISU [Environmental Science](http://www.enscigrad.iastate.edu), [Interdepartmental Microbiology Program](http://www.micrograd.iastate.edu/), and [Bioinformatics and Computational Biology](http://www.bcb.iastate.edu).
 
-We are currently supported by the U.S. DOE; the National Science Foundation; and the USDA National Institute of Food and Agriculture.
+We are currently supported by the Iowa Nutrient Reduction Center; the U.S. Department of Energy; the National Science Foundation; and the USDA National Institute of Food and Agriculture.
 
