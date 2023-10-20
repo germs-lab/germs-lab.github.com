@@ -45,7 +45,13 @@ current_images:
     title: Kaija Dahlberg
     position:  Undergraduate RA
 
-    
+  - image_path: /photos-team/Lily_photo.jpg
+    title: Lily Haas
+    position:  Undergraduate RA
+
+  - image_path: /photos-team/Morgan_photo.jpg
+    title: Morgan Lang
+    position:  Undergraduate RA
 
 
 ---
