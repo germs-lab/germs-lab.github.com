@@ -4,7 +4,7 @@ title: "Team"
 permalink: /team/
 ---
 
-<img src="/photos-team/group_photo_fall_2021.jpg" alt="lab_photo" class="image" style="width:100%">
+<img src="/photos-team/PXL_20231103_211207473.jpg" alt="lab_photo" class="image" style="width:100%">
 
 # Our Code of Conduct
 
