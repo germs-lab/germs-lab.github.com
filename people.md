@@ -20,10 +20,6 @@ current_images:
     title:  Jared Flater, PhD
     position:  Postdoc
     
-  - image_path: /photos-team/michael.jpg
-    title:  Michael Millican, PhD
-    position:  Postdoc
-    
   - image_path: /photos-team/puja2.jpg
     title:  Puja Bajracharya
     position:  PhD Student (Micro)
@@ -35,11 +31,6 @@ current_images:
   - image_path: /photos-team/nicole.jpg
     title:  Nicole Geerdes
     position:  PhD Student (EnvSci)
-  
-  - image_path: /photos-team/liu.jpg
-    title:  Jia Liu
-    position:  PhD Student (BCB)
-    website:  https://github.com/jialiu232
 
   - image_path: /photos-team/kaija.jpg
     title: Kaija Dahlberg
@@ -88,8 +79,10 @@ current_images:
 <p>Kate Glanville, PhD</p>
 <p>Hannah Guyer, MS</p>
   <p>Juliana Johnson</p>
+  <p>Jia Liu, PhD </p>
   <p>Weiquan Luo, MS </p>
   <p>Lanying Ma, PhD </p>
+  <p>Michael Millican, PhD </p>
   <p>Nicole Ricker, PhD</p>
   <p>Liz Luby Rieke, PhD</p>
   <p>Abby Schaefer, MS</p>
