@@ -33,7 +33,7 @@ current_images:
     position:  PhD Student (EnvSci)
 
 - image_path: /photos-team/sakib.jpg
-    title:  Najmug Sakib ("Sakib")
+    title:  Najmuj Sakib ("Sakib")
     position:  PhD Student (Micro)
 
   - image_path: /photos-team/kaija.jpg
