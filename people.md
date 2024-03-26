@@ -32,7 +32,7 @@ current_images:
     title:  Nicole Geerdes
     position:  PhD Student (EnvSci)
 
-- image_path: /photos-team/sakib.jpg
+  - image_path: /photos-team/sakib.jpg
     title:  Najmuj Sakib ("Sakib")
     position:  PhD Student (Micro)
 
