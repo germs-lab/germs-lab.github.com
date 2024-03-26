@@ -32,6 +32,10 @@ current_images:
     title:  Nicole Geerdes
     position:  PhD Student (EnvSci)
 
+- image_path: /photos-team/sakib.jpg
+    title:  Najmug Sakib ("Sakib")
+    position:  PhD Student (Micro)
+
   - image_path: /photos-team/kaija.jpg
     title: Kaija Dahlberg
     position:  Undergraduate RA
