@@ -13,4 +13,4 @@ entries_layout: grid
 
 # Publications
 * [Google Scholar](https://scholar.google.com/citations?user=ixR8YE8AAAAJ&hl=en)
-* [Digital Repository](http://works.bepress.com/adina/)
+
