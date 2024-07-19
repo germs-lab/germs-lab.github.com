@@ -16,18 +16,18 @@ current_images:
     title:  Lorien Radmer, MS
     position:  Research Scientist
     
-  - image_path: /photos-team/flater.jpg
-    title:  Jared Flater, PhD
-    position:  Postdoc
-    
   - image_path: /photos-team/puja2.jpg
     title:  Puja Bajracharya
     position:  PhD Student (Micro)
 
   - image_path: /photos-team/grace.jpg
     title:  Grace Carey 
-    position:  PhD Student (Micro)
+    position:  PhD Candidate (Micro)
 
+  - image_path: /photos-team/phillip.jpg
+    title:  Phillip de Lorimier
+    position:  PhD Student (Env Sci)
+    
   - image_path: /photos-team/nicole.jpg
     title:  Nicole Geerdes
     position:  PhD Student (EnvSci)
@@ -35,14 +35,6 @@ current_images:
   - image_path: /photos-team/sakib.jpg
     title:  Najmuj Sakib (Sakib)
     position:  PhD Student (Micro)
-
-  - image_path: /photos-team/kaija.jpg
-    title: Kaija Dahlberg
-    position:  Undergraduate RA
-
-  - image_path: /photos-team/Lily_photo.jpg
-    title: Lily Haas
-    position:  Undergraduate RA
 
   - image_path: /photos-team/Morgan_photo.jpg
     title: Morgan Lang
