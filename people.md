@@ -24,7 +24,7 @@ current_images:
     title:  Grace Carey 
     position:  PhD Candidate (Micro)
 
-  - image_path: /photos-team/phillip.jpg
+  - image_path: /photos-team/phillip_headshot.jpeg
     title:  Phillip de Lorimier
     position:  PhD Student (Env Sci)
     
@@ -72,6 +72,7 @@ current_images:
 <p>Phil Colgan, PhD</p>
 <p>Chad Dolphin, MS</p>
 <p>Shane Dooley, PhD</p>
+<p>Jared Flater, PhD</p>
 <p>Kate Glanville, PhD</p>
 <p>Hannah Guyer, MS</p>
   <p>Juliana Johnson</p>
@@ -88,8 +89,11 @@ current_images:
   <p>Ryan Williams, PhD </p>
   <p>Fan Yang, PhD</p>
   <p>Jihoon Yang, PhD</p>
+  <p>Kaija Dahlberg</p>
+  <p>Lily Haas</p>
   <p>Emma Nieland</p>
   <p>Erik Raman </p>
+
 </div>
 <div class="row">
   <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica"> Past Visiting GERMS </font></pre></strong></p>
