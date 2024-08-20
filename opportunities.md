@@ -12,7 +12,7 @@ If you are interested in joining GERMS as a graduate student, you should apply t
 
 # Undergrads Wanted! #
 
-We are looking for undergraduate assistants in our research.  Please contact lradmer@iastate.edu and mention this posting if interested.
+We are looking for undergraduate assistants in our research.  If you are currently pursuing your BS degree, you can contact Lorien Radmer.  Your first task is to demonstrate success in finding her email!
 
 Job Description:
 
