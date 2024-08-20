@@ -12,7 +12,7 @@ If you are interested in joining GERMS as a graduate student, you should apply t
 
 # Undergrads Wanted! #
 
-We are looking for undergraduate assistants in our research.  If you are currently pursuing your BS degree, you can contact Lorien Radmer.  Your first task is to demonstrate success in finding her email!
+We are looking for undergraduate assistants in our research.  If you are currently pursuing your Bachelor's degree at ISU, you can contact Lorien Radmer.  Your first task is to demonstrate success in finding her email!
 
 Job Description:
 
