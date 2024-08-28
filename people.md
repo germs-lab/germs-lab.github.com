@@ -24,6 +24,10 @@ current_images:
     title:  Grace Carey 
     position:  PhD Candidate (Micro)
 
+  - image_path: /photos-team/lillian.jpg
+    title:  Lillian Chiang
+    position:  MS Student (Env Sci)
+    
   - image_path: /photos-team/phillip_headshot.jpeg
     title:  Phillip de Lorimier
     position:  PhD Student (Env Sci)
