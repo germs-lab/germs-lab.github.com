@@ -40,6 +40,14 @@ current_images:
     title:  Najmuj Sakib (Sakib)
     position:  PhD Student (Micro)
 
+  - image_path: /photos-team/clarisse.jpg
+    title:  Clarisse Siababa
+    position:  PhD Student (Micro)
+    
+  - image_path: /photos-team/lauren.jpg
+    title: Lauren Kwon
+    position:  Undergraduate RA
+ 
   - image_path: /photos-team/Morgan_photo.jpg
     title: Morgan Lang
     position:  Undergraduate RA
