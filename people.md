@@ -30,7 +30,7 @@ current_images:
     
   - image_path: /photos-team/phillip_headshot.jpeg
     title:  Phillip de Lorimier
-    position:  PhD Student (Env Sci)
+    position:  MS Student (Env Sci)
     
   - image_path: /photos-team/nicole.jpg
     title:  Nicole Geerdes
