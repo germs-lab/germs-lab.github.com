@@ -15,7 +15,11 @@ current_images:
   - image_path:  /photos-team/lorien.jpg
     title:  Lorien Radmer, MS
     position:  Research Scientist
-    
+
+  - image_path:  /photos-team/bolivar.jpg
+    title:  Bolivar Aponte, PhD
+    position:  Postdoc
+
   - image_path: /photos-team/puja2.jpg
     title:  Puja Bajracharya
     position:  PhD Student (Micro)
