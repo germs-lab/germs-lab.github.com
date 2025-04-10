@@ -20,10 +20,6 @@ current_images:
     title:  Bolivar Aponte, PhD
     position:  Postdoc
 
-  - image_path: /photos-team/puja2.jpg
-    title:  Puja Bajracharya
-    position:  PhD Student (Micro)
-
   - image_path: /photos-team/grace.jpg
     title:  Grace Carey 
     position:  PhD Candidate (Micro)
@@ -84,6 +80,7 @@ current_images:
 <div class="row">
   <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica"> Released GERMS </font></pre></strong></p>
   <p>Laura Alt, PhD</p> 
+  <p>Puja Bajracharya</p>
   <p>Jinlyung Choi, PhD</p>
 <p>Phil Colgan, PhD</p>
 <p>Chad Dolphin, MS</p>
