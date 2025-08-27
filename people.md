@@ -44,14 +44,17 @@ current_images:
     title:  Clarisse Siababa
     position:  PhD Student (Micro)
     
-  - image_path: /photos-team/lauren.jpg
-    title: Lauren Kwon
-    position:  Undergraduate RA
- 
   - image_path: /photos-team/Morgan_photo.jpg
     title: Morgan Lang
     position:  Undergraduate RA
 
+  - image_path: /photos-team/Ryan_photo.jpeg
+    title: Ryan Donaldson
+    position:  Undergraduate RA
+ 
+  - image_path: /photos-team/Joy_photo.jpeg
+    title: Joy Do
+    position:  Undergraduate RA
 
 ---
 <div class="row">
