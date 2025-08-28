@@ -10,7 +10,7 @@ We take an interdisciplinary approach to understand and manage natural and engin
 
 If you are interested in joining GERMS as a graduate student, you should apply to the ISU graduate program in [Agricultural and Biosystems Engineering](http://www.abe.iastate.edu/prospective-students/apply-today/), [Environmental Science](http://www.ensci.iastate.edu/grad/applying.html), [Interdepartmental Microbiology Program](http://www.micro.iastate.edu/), or [Bioinformatics and Computational Biology](http://www.bcb.iastate.edu/Prospect.html#Apply). 
 
-# Undergrads Wanted! #
+<!-- # Undergrads Wanted! #
 
 We are looking for undergraduate assistants in our research.  If you are currently pursuing your Bachelor's degree at ISU, you can contact Lorien Radmer.  Your first task is to demonstrate success in finding her email!
 
@@ -20,5 +20,5 @@ The GERMS lab is looking for assistance with routine ecological and biological l
 
 Job Skills / Requirements:
 
-Must be dependable, punctual, and take work responsibilities seriously. Must have excellent hand-to-eye coordination. Ability to communicate effectively and to follow verbal and written instructions is essential.
+Must be dependable, punctual, and take work responsibilities seriously. Must have excellent hand-to-eye coordination. Ability to communicate effectively and to follow verbal and written instructions is essential. -->
 
