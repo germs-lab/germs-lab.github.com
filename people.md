@@ -48,6 +48,10 @@ current_images:
     title: Morgan Lang
     position:  Undergraduate RA
 
+  - image_path: /photos-team/Brenna_photo.jpg
+    title: Brenna Halsted
+    position:  Undergraduate RA
+ 
   - image_path: /photos-team/Ryan_photo.jpeg
     title: Ryan Donaldson
     position:  Undergraduate RA
