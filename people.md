@@ -17,7 +17,7 @@ current_images:
     position:  Research Scientist
 
   - image_path:  /photos-team/bolivar.jpg
-    title:  Bolivar Aponte, PhD
+    title:  Bolivar Aponte Rolon, PhD
     position:  Postdoc
 
   - image_path: /photos-team/grace.jpg
