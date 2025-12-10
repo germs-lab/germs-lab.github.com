@@ -22,4 +22,4 @@ We are currently supported by the Iowa Nutrient Reduction Center; the U.S. Depar
 
 {% include youtube.html id="ogoAf7Dy8Tg" %}
 
-Special thanks for the 2024 team for creating this video together for a talk Adina gave in Japan.
+Special thanks for the 2025 team for creating this video together for a talk Adina gave in Japan.
