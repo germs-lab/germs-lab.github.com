@@ -18,3 +18,8 @@ We are a part of [Iowa State University](http://www.iastate.edu) and the [Agricu
 
 We are currently supported by the Iowa Nutrient Reduction Center; the U.S. Department of Energy; the National Science Foundation; and the USDA National Institute of Food and Agriculture.
 
+# GERMS Days
+
+{% include youtube.html id="ogoAf7Dy8Tg" %}
+
+Special thanks for the 2024 team for creating this video together for a talk Adina gave in Japan.
