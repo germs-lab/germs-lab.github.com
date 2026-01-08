@@ -20,6 +20,10 @@ current_images:
     title:  Bolivar Aponte Rolon, PhD
     position:  Postdoc
 
+  - image_path:  /photos-team/Kimia_photo.JPG
+    title:  Kimia Noroozi, PhD
+    position:  Postdoc
+
   - image_path: /photos-team/grace.jpg
     title:  Grace Carey 
     position:  PhD Candidate (Micro)
