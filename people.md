@@ -24,10 +24,6 @@ current_images:
     title:  Kimia Noroozi, PhD
     position:  Postdoc
 
-  - image_path: /photos-team/grace.jpg
-    title:  Grace Carey 
-    position:  PhD Candidate (Micro)
-
   - image_path: /photos-team/lillian.jpg
     title:  Lillian Chiang
     position:  MS Student (Env Sci)
@@ -91,8 +87,9 @@ current_images:
 <div class="row">
   <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica"> Released GERMS </font></pre></strong></p>
   <p>Laura Alt, PhD</p> 
-  <p>Puja Bajracharya</p>
+  <p>Puja Bajracharya, MS</p>
   <p>Jinlyung Choi, PhD</p>
+  <p>Grace Carey, PhD</p>
 <p>Phil Colgan, PhD</p>
 <p>Chad Dolphin, MS</p>
 <p>Shane Dooley, PhD</p>
