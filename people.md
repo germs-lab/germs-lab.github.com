@@ -17,7 +17,7 @@ current_images:
     position:  Research Scientist
 
   - image_path:  /photos-team/bolivar.jpg
-    title:  Bolivar Aponte Rolon, PhD
+    title:  Bolivar Aponte Rolón, PhD
     position:  Postdoc
 
   - image_path:  /photos-team/Kimia_photo.JPG
