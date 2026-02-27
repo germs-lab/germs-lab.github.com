@@ -24,6 +24,10 @@ current_images:
     title:  Kimia Noroozi, PhD
     position:  Postdoc
 
+  - image_path:  /photos-team/Hyeonji_photo.jpg
+    title:  Hyeonji Song, PhD
+    position:  Postdoc
+
   - image_path: /photos-team/lillian.jpg
     title:  Lillian Chiang
     position:  MS Student (Env Sci)
