@@ -13,4 +13,6 @@ GERMS is dedicated to providing a harassment-free experience for everyone, regar
 
 <img src="/photos-team/team_2023.jpg" alt="lab_photo" class="image" style="width:100%">
 
+<img src="photos-team/Cranes3 Mar2026.jpg" alt="lab_photo" class="image" style="width:100%">
+
 <img src="/photos-team/lab_bowling.jpg" alt="lab_photo" class="image" style="width:100%">
