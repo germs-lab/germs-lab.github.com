@@ -9,6 +9,8 @@ The guiding principle of our lab is to advance science, tools, and software thro
 
 GERMS is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of lab members in any form. Sexual language and imagery is not appropriate for any lab venue, including lab meetings, presentations, or discussions. 
 
+<img src="/photos-team/Lab_Olympics_2026 copy.jpg" alt="lab_photo" class="image" style="width:100%">
+
 <img src="/photos-team/team_2025.jpg" alt="lab_photo" class="image" style="width:100%">
 
 <img src="/photos-team/team_2023.jpg" alt="lab_photo" class="image" style="width:100%">
