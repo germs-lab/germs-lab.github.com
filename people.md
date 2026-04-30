@@ -16,6 +16,10 @@ current_images:
     title:  Lorien Radmer, MS
     position:  Research Scientist
 
+  - image_path:  /photos-team/SooBin_photo.png
+    title:  Soo Bin Kim, PhD
+    position:  Visiting Scientist
+
   - image_path:  /photos-team/bolivar.jpg
     title:  Bolivar Aponte Rolón, PhD
     position:  Postdoc
