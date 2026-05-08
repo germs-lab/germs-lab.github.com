@@ -68,7 +68,7 @@ current_images:
     title: Joy Do
     position:  Undergraduate RA
 
-  - image_path: /photos-team/Leighton_photo.jpeg
+  - image_path: /photos-team/Leighton_photo copy.jpg
     title: Leighton Reichert
     position:  Undergraduate RA
 
