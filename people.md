@@ -68,6 +68,10 @@ current_images:
     title: Joy Do
     position:  Undergraduate RA
 
+  - image_path: /photos-team/Leighton_photo.jpeg
+    title: Leighton Reichert
+    position:  Undergraduate RA
+
 ---
 <div class="row">
   {% for image in page.current_images %}
