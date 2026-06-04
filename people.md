@@ -20,10 +20,6 @@ current_images:
     title:  Soo Bin Kim, PhD
     position:  Visiting Scientist
 
-  - image_path:  /photos-team/bolivar.jpg
-    title:  Bolivar Aponte Rolón, PhD
-    position:  Postdoc
-
   - image_path:  /photos-team/Kimia_photo.JPG
     title:  Kimia Noroozi, PhD
     position:  Postdoc
@@ -32,10 +28,6 @@ current_images:
     title:  Hyeonji Song, PhD
     position:  Postdoc
 
-  - image_path: /photos-team/lillian.jpg
-    title:  Lillian Chiang
-    position:  MS Student (Env Sci)
-    
   - image_path: /photos-team/phillip_headshot.jpeg
     title:  Phillip de Lorimier
     position:  PhD Student (Env Sci)
@@ -52,14 +44,6 @@ current_images:
     title:  Clarisse Siababa
     position:  PhD Student (Micro)
     
-  - image_path: /photos-team/Morgan_photo.jpg
-    title: Morgan Lang
-    position:  Undergraduate RA
-
-  - image_path: /photos-team/Brenna_photo.jpg
-    title: Brenna Halsted
-    position:  Undergraduate RA
- 
   - image_path: /photos-team/Ryan_photo.jpeg
     title: Ryan Donaldson
     position:  Undergraduate RA
@@ -71,6 +55,11 @@ current_images:
   - image_path: /photos-team/Leighton_photo copy.jpg
     title: Leighton Reichert
     position:  Undergraduate RA
+
+  - image_path: /photos-team/Terri_photo copy.jpg
+    title: Terri Waggle
+    position:  Undergraduate RA
+
 
 ---
 <div class="row">
