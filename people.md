@@ -88,9 +88,11 @@ current_images:
 <div class="row">
   <p><strong><pre class="tab" style="font-size:2em"><font face="helvetica"> Released GERMS </font></pre></strong></p>
   <p>Laura Alt, PhD</p> 
+  <p>Bolívar Aponte Rolón, PhD</p>
   <p>Puja Bajracharya, MS</p>
   <p>Jinlyung Choi, PhD</p>
   <p>Grace Carey, PhD</p>
+  <p>Lillian Chiang, MS</p>
 <p>Phil Colgan, PhD</p>
 <p>Chad Dolphin, MS</p>
 <p>Shane Dooley, PhD</p>
