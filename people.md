@@ -43,6 +43,10 @@ current_images:
   - image_path: /photos-team/clarisse.jpg
     title:  Clarisse Siababa
     position:  PhD Student (Micro)
+
+  - image_path: /photos-team/Mario_Bani_copy.jpg
+    title:  Mario Bani
+    position:  PhD Student (Micro)
     
   - image_path: /photos-team/Ryan_photo.jpeg
     title: Ryan Donaldson
