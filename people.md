@@ -16,16 +16,16 @@ current_images:
     title:  Lorien Radmer, MS
     position:  Research Scientist
 
-  - image_path:  /photos-team/SooBin_photo.png
-    title:  Soo Bin Kim, PhD
-    position:  Visiting Scientist
-
   - image_path:  /photos-team/Kimia_photo.JPG
     title:  Kimia Noroozi, PhD
     position:  Postdoc
 
   - image_path:  /photos-team/Hyeonji_photo.jpg
     title:  Hyeonji Song, PhD
+    position:  Postdoc
+
+  - image_path:  /photos-team/SooBin_photo.png
+    title:  Soo Bin Kim, PhD
     position:  Postdoc
 
   - image_path: /photos-team/phillip_headshot.jpeg
