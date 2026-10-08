@@ -1,3 +1,4 @@
+
 ---
 layout: default
 permalink: /people/
@@ -86,6 +87,7 @@ current_images:
 </div>
 
 <br>
+
 
 
 
