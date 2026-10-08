@@ -24,7 +24,7 @@ current_images:
     title:  Hyeonji Song, PhD
     position:  Postdoc
 
-  - image_path:  /photos-team/SooBin_photo.png
+  - image_path:  /photos-team/SooBin_photo.jpg
     title:  Soo Bin Kim, PhD
     position:  Postdoc
 
