@@ -3,7 +3,7 @@ layout: default
 permalink: /people/
 github: /\_photo_gallery/github.png
 current_images: 
-  - image_path: /photos-team/Howe_Adina304.png
+  - image_path: /photos-team/Howe_Adina304.jpg
     title: Adina Howe, PhD 
     position:  PI
     website: https://github.com/germs-lab
