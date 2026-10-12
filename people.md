@@ -3,67 +3,66 @@ layout: default
 permalink: /people/
 github: /\_photo_gallery/github.png
 current_images: 
-  - image_path: /photos-team/Howe_Adina304.png
+- image_path: /photos-team/Howe_Adina304.png
     title: Adina Howe, PhD 
     position:  PI
     website: https://github.com/germs-lab
-    
-  - image_path: /photos-team/lee.jpg
+
+- image_path: /photos-team/lee.jpg
     title:  Jaejin Lee, PhD
     position:  Research Scientist
-    
-  - image_path:  /photos-team/lorien.jpg
+
+- image_path:  /photos-team/lorien.jpg
     title:  Lorien Radmer, MS
     position:  Research Scientist
 
-  - image_path:  /photos-team/Kimia_photo.JPG
+- image_path:  /photos-team/Kimia_photo.JPG
     title:  Kimia Noroozi, PhD
     position:  Postdoc
 
-  - image_path:  /photos-team/Hyeonji_photo.jpg
+- image_path:  /photos-team/Hyeonji_photo.jpg
     title:  Hyeonji Song, PhD
     position:  Postdoc
 
-  - image_path:  /photos-team/SooBin_photo.jpg
+- image_path:  /photos-team/SooBin_photo.jpg
     title:  Soo Bin Kim, PhD
     position:  Postdoc
 
-  - image_path: /photos-team/phillip_headshot.jpeg
+- image_path: /photos-team/phillip_headshot.jpeg
     title:  Phillip de Lorimier
     position:  PhD Student (Env Sci)
-    
-  - image_path: /photos-team/Nicole_headshot.jpg
+
+- image_path: /photos-team/Nicole_headshot.jpg
     title:  Nicole Geerdes
     position:  PhD Student (EnvSci)
 
-  - image_path: /photos-team/sakib.jpg
+- image_path: /photos-team/sakib.jpg
     title:  Najmuj Sakib (Sakib)
     position:  PhD Student (Micro)
 
-  - image_path: /photos-team/clarisse.jpg
+- image_path: /photos-team/clarisse.jpg
     title:  Clarisse Siababa
     position:  PhD Student (Micro)
 
-  - image_path: /photos-team/Mario_Bani_copy.jpg
+- image_path: /photos-team/Mario_Bani_copy.jpg
     title:  Mario Bani
     position:  PhD Student (Micro)
-    
-  - image_path: /photos-team/Ryan_photo.jpeg
+
+- image_path: /photos-team/Ryan_photo.jpeg
     title: Ryan Donaldson
     position:  Undergraduate RA
- 
-  - image_path: /photos-team/Joy_photo.jpeg
+
+- image_path: /photos-team/Joy_photo.jpeg
     title: Joy Do
     position:  Undergraduate RA
 
-  - image_path: /photos-team/Leighton_photo copy.jpg
+- image_path: /photos-team/Leighton_photo copy.jpg
     title: Leighton Reichert
     position:  Undergraduate RA
 
-  - image_path: /photos-team/Terri_photo copy.jpg
+- image_path: /photos-team/Terri_photo copy.jpg
     title: Terri Waggle
     position:  Undergraduate RA
-
 
 ---
 <div class="row">
