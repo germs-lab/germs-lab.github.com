@@ -11,6 +11,8 @@ GERMS is dedicated to providing a harassment-free experience for everyone, regar
 
 <img src="/photos-team/Lab_Olympics_2026 copy.jpg" alt="lab_photo" class="image" style="width:100%">
 
+<img src="/photos-team/Tailgating 14Nov26.jpg" alt="lab_photo" class="image" style="width:100%">
+
 <img src="/photos-team/team_2025.jpg" alt="lab_photo" class="image" style="width:100%">
 
 <img src="/photos-team/team_2023.jpg" alt="lab_photo" class="image" style="width:100%">
